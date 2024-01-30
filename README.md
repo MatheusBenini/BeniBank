@@ -7,7 +7,7 @@ Utilizando tecnologias como Styled Components, Moti e React Native Reanimated, b
 O Expo facilitou o desenvolvimento, tornando o BeniBank App eficiente e visualmente atraente.
 
 
-<h1><img src="https://imgur.com/NUeVOym" /></h1>
+<h1><img src="https://i.imgur.com/NUeVOym.gifv" /></h1>
 
 
 
